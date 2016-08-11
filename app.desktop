@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=nds
+comment=
+Exec=sudo /usr/bin/java -jar /home/pi/Desktop/test.jar
+StartupNotify=false
+Terminal=false
+Hidden=-false
